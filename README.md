@@ -1,5 +1,5 @@
 # capscalate
-A program to escalate to root privledges with many different capabilities
+A program to escalate to root privileges with many different capabilities
 # Disclaimer
 A few of these "exploits" cat cause temporary or permanat damage to a system if the "exploit" fails. Always have a root shell open while running these so you can fix any issues. 
 ## What can they do?
